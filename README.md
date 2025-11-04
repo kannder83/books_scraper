@@ -52,7 +52,7 @@ books_scraper/
 ## 🎯 Datos Extraídos
 
 Por cada libro se obtiene:
-- Título y autor
+- Título
 - Precio y disponibilidad
 - Calificación (estrellas)
 - ISBN y categoría
