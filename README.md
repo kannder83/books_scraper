@@ -63,3 +63,10 @@ Por cada libro se obtiene:
 
 Esta rama contiene la implementación inicial con documentación completa del proceso de análisis y diseño.
 
+## 🚀 Ejecución
+
+### Ejecutar el Scraper
+
+```bash
+python scraper.py
+```
